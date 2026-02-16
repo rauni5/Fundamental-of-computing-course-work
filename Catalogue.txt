@@ -1,0 +1,7 @@
+0X,Inigo 732,Caliber,0,2700.0,Domestic
+0Y,Lite Racer,Adidas,100,7000.0,International
+0Z,Loafer Light,GoldStar,180,1000.0,Domestic
+0S,LENNOX 725,Caliber,20,3650.89,Domestic
+0B,Ava Rover,Nike,180,9680.99,International
+0p,Juta,Islington,200,2000.0,Domestic
+0r,Juta 2,Islington,150,5000.0,International
